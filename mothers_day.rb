@@ -3,9 +3,8 @@ def mothers_day
   "Happy Mother's Day, Mom!"
 end
 
-def mothers_day("Beyonce")
-  
-end
+mothers_day
+
 
   
   
